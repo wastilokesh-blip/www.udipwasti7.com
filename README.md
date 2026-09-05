@@ -1,4 +1,4 @@
-# Udip Wasti - Culinary Professional Portfolio
+# Udip Wasti - Culinary Professional Profile 
 
 A modern, professional personal website showcasing culinary expertise and professional background.
 
@@ -58,7 +58,7 @@ All styling is contained in the HTML file within a `<style>` tag. You can easily
 ## Contact
 
 Modify the contact section to include:
-- Email
+- Email wasti.udip7@gmail.com
 - LinkedIn profile
 - Other social links
 
